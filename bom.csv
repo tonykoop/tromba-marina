@@ -1,0 +1,11 @@
+item_id,category,item,authority,quantity,unit,notes
+BOM-001,body,long resonant body or soundbox,pending_measurement,TBD,TBD,Body form and materials require historical/reference review.
+BOM-002,string,primary bowed string,pending_measurement,1,count,Single-string identity is concept-level; gauge tuning and scale length are unspecified.
+BOM-003,bridge,buzzing trumpet bridge,pending_measurement,TBD,TBD,Loose-foot bridge concept only; gap mass height and contact material are not specified.
+BOM-004,bridge,replaceable bridge-foot shims,pending_measurement,TBD,TBD,Future experiment part for controlled buzz adjustment.
+BOM-005,soundboard,soundboard or bridge contact plate,pending_measurement,TBD,TBD,Material and thickness are unknown until reference and coupon testing.
+BOM-006,neck,string path and harmonic reference surface,pending_measurement,TBD,TBD,Harmonic markers are possible but no positions are claimed.
+BOM-007,sympathetic_strings,internal sympathetic strings,pending_measurement,TBD,TBD,Historical variants may use them; count tuning and mounting remain open.
+BOM-008,hardware,tuning hardware and string anchors,pending_measurement,TBD,TBD,Hardware sizing depends on string plan and body structure.
+BOM-009,validation,buzzing-bridge bench rig,pending_measurement,TBD,TBD,Recommended first prototype before any full instrument packet.
+BOM-010,documentation,reference photos drawings and measurements,concept_only,TBD,TBD,Future evidence gathering item; no references are embedded here.

@@ -1,0 +1,6 @@
+artifact_id,path,artifact_kind,role,authority,derived_from,dimension_claim,fabrication_required,notes
+README-001,README.md,render_preview,concept,concept_only,,none,false,"Concept packet index and L1 boundary statement; not dimensional authority."
+DESIGN-001,design.md,design_table,design_table,pending_measurement,README.md,none,false,"Parametric intent records unknowns without supplying body dimensions, string data, bridge geometry, tuning, or harmonic positions."
+BOM-001,bom.csv,measurement_template,measurement_template,pending_measurement,design.md,none,false,"Estimated BOM categories only; quantities and specifications remain TBD except the single primary string concept."
+DEC-001,decision-record.md,render_preview,concept,concept_only,README.md,none,false,"Decision and open-question log; not fabrication authority."
+PROV-001,cad/mcp-session-log.md,render_preview,concept,concept_only,README.md,none,false,"Provenance stub records qmd Step 0 and confirms no CAD or MCP session ran."
