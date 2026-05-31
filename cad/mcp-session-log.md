@@ -20,6 +20,7 @@ V5 build-packet candidate, not a fabrication packet.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-30-codex-r7-tromba-marina | none | Round 7 lane prompt only | `README.md`; `design.md`; `bom.csv`; `decision-record.md`; `visual-output-register.csv`; `cad/mcp-session-log.md` | concept_packet_scaffold | concept_only | self_checked | No CAD geometry, DXF coordinates, tuning values, harmonic-position tables, acoustic predictions, pressure values, bridge dimensions, or force values were generated. |
 | 2026-05-30-codex-r7-tromba-marina-l2 | local text edit | Existing L1 packet files only | `README.md`; `design.md`; `bom.csv`; `cut-list.csv`; `decision-record.md`; `visual-output-register.csv`; `cad/mcp-session-log.md` | l2_packet_uplift | pending_measurement | self_checked | L2 review structure added without CAD geometry, DXF coordinates, tuning values, harmonic-position tables, bridge dimensions, or force values. |
+| 2026-05-30-wolfram-hand-authoring | Codex local edit | Round 8 Wolfram author contract plus existing repo design notes | `tromba-marina-starter.wl`; `wolfram/tromba-marina-wolfram-model.wl` | wolfram_source_authoring | reference_only | self_checked | No MCP, Desktop, or Cloud Wolfram session was run; source was authored by hand. All physical numeric inputs are estimate placeholders pending measurement, not fabrication authority. |
 
 ## Next Provenance Requirement
 

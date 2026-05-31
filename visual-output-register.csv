@@ -5,3 +5,5 @@ BOM-001,bom.csv,measurement_template,measurement_template,pending_measurement,de
 CUT-001,cut-list.csv,measurement_template,measurement_template,pending_measurement,design.md,none,false,"Planning cut-list for bench coupons and deferred full-body parts; no dimensions or cut authority."
 DEC-001,decision-record.md,render_preview,concept,concept_only,README.md,none,false,"Decision and open-question log; not fabrication authority."
 PROV-001,cad/mcp-session-log.md,render_preview,concept,concept_only,README.md,none,false,"Provenance stub records qmd Step 0 and confirms no CAD or MCP session ran."
+WL-STARTER-001,tromba-marina-starter.wl,design_table,design_table,reference_only,,none,false,"Wolfram source entry point authored by hand; computes no fabrication dimensions."
+WL-MODEL-001,wolfram/tromba-marina-wolfram-model.wl,design_table,design_table,reference_only,tromba-marina-starter.wl,none,false,"Wolfram 14.3 parametric monochord/bridge-buzz model; all physical inputs are estimate placeholders pending measurement."
