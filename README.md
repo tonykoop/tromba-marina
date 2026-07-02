@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Tromba Marina
 
-Status: L2 V5 build-packet candidate
+**Status:** L2 V5 build-packet candidate
 
 Authority: this repository is a V5 shop-packet candidate for review and
 prototype planning. It is not fabrication authority, not a measured historical
@@ -22,6 +22,12 @@ sympathetic strings.
 - [Design study](design.md)
 - [Review BOM](bom.csv)
 - [Cut-list placeholder](cut-list.csv)
+- [Sourcing scaffold](sourcing.csv) — spec-first, all TBD.
+- [Validation gates](validation.csv) — buzz/sustain/harmonic/resonance, all TBD.
+- [Risks](risks.md) — concept-study risk register.
+- [Drawing brief](drawing-brief.md) — first-drawing spec (drawings deferred).
+- [CAD envelope scaffold](cad/tromba-marina.scad) — GENERIC OpenSCAD envelope; every value is a labeled PLACEHOLDER (no reference dimension exists); authority `pending_measurement`, not fabrication authority.
+- [Evolution intake](evolution/) — evolution-pipeline Stage 0 (master manifest, design-intent, revision register; Gate A not yet run).
 - [Decision record](decision-record.md)
 - [Visual output register](visual-output-register.csv)
 - [CAD/MCP provenance log](cad/mcp-session-log.md)

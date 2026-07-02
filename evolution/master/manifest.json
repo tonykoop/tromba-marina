@@ -1,0 +1,34 @@
+{
+  "product": "tromba-marina",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "rev-A (pre-commit intake, 2026-07-01)",
+  "generated": "2026-07-01",
+  "cad_masters": [
+    {
+      "path": "cad/tromba-marina.scad",
+      "format": "openscad-source",
+      "sha256": "5dced763eb8e61484fbd009448ac3b8359ae6d85d27a1006a1edf216c80f5eb6",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "GENERIC envelope scaffold; every value is an explicit PLACEHOLDER (no reference dimension exists — design.md records only named unknowns). Renders clean (openscad -o STL, exit 0). Not fabrication authority."
+    },
+    {
+      "path": "design.md",
+      "format": "design-table",
+      "sha256": "e01379e21f984fefd8dec9f6564308bd364f2232492cade068b10ef13441e620",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "Concept study; records named unknowns (pending_*) instead of dimensions. No dimensional authority."
+    },
+    {
+      "path": "wolfram/tromba-marina-wolfram-model.wl",
+      "format": "wolfram-source",
+      "sha256": "fa0f52f014aba0b36065ea3361e87b75a752971138fddc3b1de7f075178aaa19",
+      "authority": "derived_preview",
+      "lossy": false,
+      "notes": "Parametric monochord/bridge-buzz model; source-only (not executed); all physical inputs are estimate placeholders. L2 evidence."
+    }
+  ],
+  "notes": "This is a concept-study packet with NO reference dimensions; the OpenSCAD source is a generic placeholder envelope, not a dimensional master. First real prototype is a buzzing-bridge bench rig (design.md), not a full instrument. No STEP export. Gate A (Alpha workspace compile) not yet run."
+}
