@@ -1,0 +1,9 @@
+check_id,area,target,method,tolerance,authority,measured,result,action
+VAL-001,Buzz onset,"Loose-foot bridge buzzes cleanly when bowed without choking the string","Bench-rig: bow single tensioned string over interchangeable bridge; observe buzz onset",TBD,pending_measurement,TBD,TBD,"Adjust bridge mass, foot gap, and contact material; re-test"
+VAL-002,Buzz stability,"Buzz sustains and resets repeatably across bowing gestures","Bench-rig repeat trials; log buzz character and reset repeatability",TBD,pending_measurement,TBD,TBD,"Revise loose-foot coupling / shim stack"
+VAL-003,String sustain,"String sustains adequately despite loose-foot rattle","Compare sustain with/without buzzing foot on bench rig",TBD,pending_measurement,TBD,TBD,"Rebalance foot preload"
+VAL-004,Harmonic reference,"Player can reliably locate natural harmonics","Harmonic map derived from selected scale length + tuning; bench check",TBD,pending_measurement,TBD,TBD,"Define scale/tuning first; then place harmonic guides"
+VAL-005,Bridge wear,"Loose foot and soundboard contact wear acceptably over use","Inspect contact patch after repeated bench sessions",TBD,pending_measurement,TBD,TBD,"Select harder contact material / replaceable shim"
+VAL-006,Body resonance,"Body/soundboard reinforce sound without uncontrolled rattle","Resonance mockup after historical envelope + bridge load path reviewed",TBD,pending_measurement,TBD,TBD,"Revise body proportions / soundboard support"
+VAL-007,Sympathetic strings (optional),"Sympathetic strings add useful bloom rather than setup complication","Resonance mockup A/B with and without sympathetic strings",TBD,concept_only,TBD,TBD,"Decide defer vs include in first full-body prototype"
+VAL-008,Historical envelope,"Reference family + reconstruction vs modern-study intent confirmed","Cite source dimensions / reviewed reference drawing before body layout",TBD,pending_measurement,TBD,TBD,"Select and cite reference before any CAD body outline"
